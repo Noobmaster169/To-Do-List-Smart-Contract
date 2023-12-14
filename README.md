@@ -10,3 +10,7 @@ Simple smart contract to keep track of user's tasks
 - Owner (Contract Creator) could withdraw the manager fee paid by the users
   
 **Deployed on Sepolia Testnet**
+
+Contract: 0x868E778E39ff895C86F0C8fccA0CDc7Aa9069c43
+
+[View on Etherscan](https://sepolia.etherscan.io/address/0x868E778E39ff895C86F0C8fccA0CDc7Aa9069c43)
